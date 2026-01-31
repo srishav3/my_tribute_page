@@ -2,6 +2,10 @@
 
 A simple, responsive tribute web page dedicated to the "Missile Man of India," Dr. A.P.J. Abdul Kalam. This project was built to practice fundamental HTML structure and CSS styling.
 
+## 🚀 Live Demo
+[View the Live Project Here](https://srishav3.github.io/my_tribute_page/)
+
+
 ## 🛠️ Features
 * **Clean Layout:** Organized sections for biography and achievements.
 * **Styled with CSS:** Custom colors, typography, and shadow effects for a modern look.
