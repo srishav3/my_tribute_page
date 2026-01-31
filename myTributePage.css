@@ -12,6 +12,7 @@ header {
     text-align: center;
     height: 7vh;
     font: weight 400px;
+    width: 100vw;
 }
 
 body{
